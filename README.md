@@ -2,3 +2,7 @@
 This is my second server.
 
 Remote [render Srever](https://s23wb19vattikonda.onrender.com)
+
+- **Class**: Teacher
+
+- **Attrubutes**: Teacher_Name, Teacher_Salary, Subject
